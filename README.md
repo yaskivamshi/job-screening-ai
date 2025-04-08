@@ -61,8 +61,38 @@ job-screening-ai/
 
 - **Backend**: Python, Flask, SQLite
 - **AI Models**: Ollama LLMs (on-prem), OpenAI-compatible APIs
-- **Frontend**: HTML (Jinja2 templates), Bootstrap (optional)
+- **Frontend**: HTML (Jinja2 templates).
 - **Tools**: dotenv, PDFMiner, python-docx, smtplib
+
+
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # on Windows: venv\Scripts\activate
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the app:
+   ```bash
+   python app.py
+
+---
+
+📸 Demo Screenshot Email
+
+![image](https://github.com/user-attachments/assets/115d9417-dd6a-430f-a5e8-20601cf535dc)
 
 ---
 
@@ -84,8 +114,6 @@ Included a script to demonstrate responsible scraping from **open GitHub job pos
 ## 📎 Deliverables
 
 - ✅ Final Codebase with README
-- 🎞️ Demo Video (OBS Studio)
-- 📊 Slide Deck (Accenture Hackathon Format)
 - ✅ Ethical Scraper Script
 - 🧠 Ollama Embeddings (Bonus)
 
@@ -101,7 +129,7 @@ Included a script to demonstrate responsible scraping from **open GitHub job pos
 
 ## 🙌 Acknowledgements
 
-Thanks to **Accenture**, **AICTE**, and the **Hackathon Team** for organizing and facilitating this sprint.
+Thanks to **Accenture**, **geeks for geeks**, and the **Hackathon Team** for organizing and facilitating this sprint.
 
 ---
 
