@@ -1,0 +1,37 @@
+Professional Summary:
+Experienced full-stack developer with 3+ years in web development and AI integration. Skilled in
+Python, React, and cloud platforms like AWS.
+
+
+Skills:
+Python, JavaScript, React, Node.js
+SQLite, PostgreSQL
+Machine Learning, Resume Parsing
+OpenAI APIs, LangChain, Ollama
+Web Scraping (ethical, compliant with robots.txt) 
+
+
+
+Experience:
+Software Engineer, Tech Innovations Inc. (2021-Present)
+Built job screening tools using LLMs and SQLite
+Implemented secure resume parsing and candidate matching algorithms
+Education:
+Bachelor of Technology in Computer Science 
+
+
+Job Responsibilities:
+Building and deploying web apps using React and Python  
+Designing job screening tools using AI  
+Working with cloud infrastructure and databases  
+
+
+
+
+Achievements
+Developed an AI chatbot - Built a chatbot that reduced customer support tickets by 40%, enhancing
+user experience and efficiency.
+
+Tech Stack
+Java, Spring Boot, MySQL, Kafka, Azure DevOps
+

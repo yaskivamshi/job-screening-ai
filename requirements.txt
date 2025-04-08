@@ -1,0 +1,10 @@
+flask
+sqlite3
+pdfminer.six
+openai
+ollama
+numpy
+scikit-learn
+beautifulsoup4
+requests
+langchain
